@@ -1,0 +1,28 @@
+.form {
+  border: 1px solid black;
+  border-radius: 2rem;
+  margin: 5px;
+  padding: 5px;
+}
+
+.form ion-item {
+  border-radius: 2rem;
+}
+
+
+ion-button {
+  background-color: black;
+  color: white;
+  border-radius: 1rem;
+}
+
+.colIcon {
+  width: 100%;
+  font-size: 100px;
+}
+
+ion-header {
+  background-color: black;
+  text-align: center;
+  text-transform: uppercase;
+}
